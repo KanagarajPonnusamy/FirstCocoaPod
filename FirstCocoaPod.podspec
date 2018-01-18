@@ -13,6 +13,6 @@ s.author           = { 'KanagarajPonnusamy' => 'kanagupbk@gmail.com' }
 s.source           = { :git => 'https://github.com/KanagarajPonnusamy/FirstCocoaPod.git', :tag => s.version.to_s }
 
 s.ios.deployment_target = '10.0'
-s.source_files = 'FirstCocoaPod/*.swift'
+s.source_files = 'FirstCocoaPod/*'
 
 end
